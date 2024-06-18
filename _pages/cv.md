@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, UC Santa Cruz 2024
+* M.A. in Economics, Hitotsubashi University, 2017
+* B.A. in Economics, Yokohama National University, 2015
 
 Work experience
 ======
