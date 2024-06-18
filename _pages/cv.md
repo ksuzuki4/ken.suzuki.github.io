@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interest
+======
+Health Economics, Applied Microeconomics, and Applied Econometrics
+
 Education
 ======
 * Ph.D in Economics, UC Santa Cruz 2024
@@ -47,18 +51,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
