@@ -13,9 +13,9 @@ title                    : "Ken Suzuki/ Ken Suzuki"
 title_separator          : "-"
 name                     : &name "Ken Suzuki"
 description              : &description "Ph.D. in Economics"
-url                      : https://ken.suzuki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ksuzuki4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ksuzuki4/ken.suzuki.github.io"
+repository               : "ksuzuki4/ksuzuki4.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
