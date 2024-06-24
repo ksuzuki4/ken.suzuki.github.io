@@ -45,9 +45,4 @@ Skills
 * Software
   * R, Stata, LaTex, Microsoft Office
 
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
