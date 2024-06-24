@@ -22,13 +22,13 @@ repository               : "ksuzuki4/ksuzuki4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/KenSuzukiWeb.jpg
+  avatar           : "images/KenSuzukiWeb.jpg"
   name             : "Ken Suzuki"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher at Stanford"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
-  uri              : https://ksuzuki4.github.io
+  URI              : "https://ksuzuki4.github.io"
   email            : "ksuzuki4@ucsc.edu" 
 
   # Academic websites
