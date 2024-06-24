@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Ken Suzuki's Website"
+author: "Ken Suzuki"
 author_profile: true
 redirect_from: 
   - /about/
